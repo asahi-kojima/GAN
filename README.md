@@ -1,3 +1,2 @@
 ### GAN
-Repoditory for codes which focus on kinds of GAN.
-If you just want to see the gif-video of result, please see ~.gif.
+もし結果にのみ興味がある方はgif動画を載せているので、それを確認してください。
